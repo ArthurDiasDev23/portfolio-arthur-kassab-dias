@@ -18,12 +18,12 @@ O desenvolvimento foi guiado por fluxogramas e pseudocódigo, permitindo
 uma organização clara da lógica e facilitando a futura implementação em
 linguagem de programação.
 
-![Fluxogramas do Sistema](42D18103-CC05-4446-92A4-27E83CB5E79F.pdf)
+![Fluxogramas do Sistema]
 
 **Figura 1:** Fluxogramas das funções do sistema (Total da Compra, Valor
 Pago, Troco e Notas).*
 
-![Pseudocódigo do Sistema](IMG_1707.pdf)
+![Pseudocódigo do Sistema]
 
 **Figura 2:** Pseudocódigo utilizado no desenvolvimento do sistema.*
 
@@ -51,4 +51,4 @@ funções e organização lógica.
 3.  Implemente em uma linguagem de programação (opcional).
 
 ---
-[Voltar ao início](https://github.com/ArthurDiasDev23/portfolio-victor-augusto-silva-marcilio/tree/main/projeto-engenharia-de-solu%C3%A7oes-logicas)
+[Voltar ao início](https://github.com/ArthurDiasDev23/portfolio-arthur-kassab-dias)
