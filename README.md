@@ -11,7 +11,7 @@
 ---
 
 ### 👨‍💻 Sobre
-Atualmente cursando Ciência da Computação e atuando como Jovem Aprendiz na Ecourbis Ambiental S/A. Sou apaixonado por resolver problemas através da tecnologia, com foco em **Desenvolvimento Backend, Automação de Processos e Web Scraping**.
+Atualmente cursando Engenharia De Software. Sou apaixonado por resolver problemas através da tecnologia, com foco em **Desenvolvimento Backend e Automação de Processos** e tenho muito entusiamos em trabalhar com projetos de design com o uso de resursos como ***Adobe Photoshop, Adobe AFter Effects, Adobe Illustrator, Adobe Premiere Pro e Blenderd***.
 
 * **Habilidades Técnicas:** Figma, Adobe Photoshop, Adobe AFter Effects, Adobe Illustrator, Adobe Premiere Pro, Blender, Canva, Microsoft Excel, Microsoft Word, Microsoft Powerpoint, Python, HTML5, JavaScript, CSS e automação de tarefas.
 * **Habilidades Socioemocionais:** Trabalho em equipe, proatividade, comunicação assertiva e adaptabilidade.
