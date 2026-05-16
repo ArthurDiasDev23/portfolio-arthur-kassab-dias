@@ -44,14 +44,8 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
 Breve explicação de como o código foi organizado:
 * A lógica principal do projeto foi baseada em recursão, já que a estrutura da empresa é representada como um dicionário aninhado (uma árvore). A função percorre cada nível verificando se o valor ainda é um dicionário ou um valor final. Caso seja um dicionário, a função chama a si mesma; caso contrário, soma o valor ao total.
 
-  O decorator foi utilizado para separar responsabilidades. Em vez de misturar lógica de cálculo com auditoria, foi criada uma função externa (@auditor) que intercepta a execução da função principal, registra os parâmetros recebidos e mede o tempo de execução. Isso torna o código mais organizado e reutilizável.
+  O decorator foi utilizado para separar responsabilidades. Em vez de misturar lógica de cálculo com auditoria, foi criada uma função externa que intercepta a execução da função principal, registra os parâmetros recebidos e mede o tempo de execução. Isso torna o código mais organizado e reutilizável.
 * **Dados:** Os dados simulados da empresa foram estruturados em um dicionário hierárquico, onde cada chave representa um setor ou subsetor, e os valores podem ser outros dicionários (subníveis) ou valores numéricos (orçamento final daquele setor).
- 
-## 👤 Autor
- 
-* **Alexandre Almeida de Jesus Nogueira**
-* LinkedIn: https://www.linkedin.com/in/alexandre-almeida-de-jesus-nogueira-70b077366/
-* E-mail: alexandreajnbr@gmail.com
  
 ---
 *Projeto acadêmico com foco na aplicação prática de conceitos avançados da linguagem Python.*
